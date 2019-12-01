@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+.login  {
+	width: 600px;
+	height: 400px;	
+	margin: 100px auto auto auto;
+	
+	border: solid 1px #f00;
+}
+
+.login-title {
+	text-align: center;
+	font-size: 24px;
+	line-height: 50px;
+}
+
+fieldset {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left:10px;
+	padding-top: 20px;
+	padding-bottom: 30px;	
+}
+
+fieldset p {
+	line-height: 40px;
+}
+
+tr {
+	height: 40px;
+}
+
+.input_txt {
+	width: 200px;
+	height: 1.6em;
+}
+
+.login_submit {
+	width: 200px;
+	height: 1.8em;
+	margin-top: 20px;
+	font-size: 16px;
+	margin-left: 340px;
+}
